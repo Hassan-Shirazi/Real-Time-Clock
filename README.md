@@ -11,13 +11,6 @@ A beautifully designed **real-time analog clock** built with **HTML**, **CSS**, 
 
 ---
 
-## 📸 Screenshot
-
-![Analog Clock Preview](preview.png)  
-<!-- Include a screenshot of your clock if possible -->
-
----
-
 ## ✨ Features
 
 - ⏱️ Real-time analog clock functionality  
